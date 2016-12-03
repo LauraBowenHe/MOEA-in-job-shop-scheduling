@@ -1,4 +1,8 @@
-#This code implement Evolutionary Algorihtm in Job Shop Schedule
+#This code implements Evolutionary Algorithm in job shop scheduling problem.
+#The first part will need you to specify the number of population, number of jobs, number of operations and number of machines.
+#Then it will give you a random processing time for each machine to process different operations.
+#Then it will use this method to leans to an optimal makespan.
+
 import numpy as np 
 import random
 import matplotlib.pyplot as plt
