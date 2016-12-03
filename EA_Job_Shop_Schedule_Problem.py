@@ -1,3 +1,4 @@
+#This code implement Evolutionary Algorihtm in Job Shop Schedule
 import numpy as np 
 import random
 import matplotlib.pyplot as plt
